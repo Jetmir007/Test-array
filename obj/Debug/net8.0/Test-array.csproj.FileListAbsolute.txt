@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\Test-array\bin\Debug\net8.0\Test-array.exe
+C:\Users\Admin\Documents\GitHub\Test-array\bin\Debug\net8.0\Test-array.deps.json
+C:\Users\Admin\Documents\GitHub\Test-array\bin\Debug\net8.0\Test-array.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Test-array\bin\Debug\net8.0\Test-array.dll
+C:\Users\Admin\Documents\GitHub\Test-array\bin\Debug\net8.0\Test-array.pdb
+C:\Users\Admin\Documents\GitHub\Test-array\obj\Debug\net8.0\Test-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Test-array\obj\Debug\net8.0\Test-array.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Test-array\obj\Debug\net8.0\Test-array.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Test-array\obj\Debug\net8.0\Test-array.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Test-array\obj\Debug\net8.0\Test-array.dll
+C:\Users\Admin\Documents\GitHub\Test-array\obj\Debug\net8.0\refint\Test-array.dll
+C:\Users\Admin\Documents\GitHub\Test-array\obj\Debug\net8.0\Test-array.pdb
+C:\Users\Admin\Documents\GitHub\Test-array\obj\Debug\net8.0\Test-array.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Test-array\obj\Debug\net8.0\ref\Test-array.dll
